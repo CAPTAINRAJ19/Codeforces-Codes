@@ -1,0 +1,1 @@
+This repository consits of some of the  codes that i have solved on codeforces and the problem statements to the corresponding codes can be found out by simply searching the name of file on codeforces.
